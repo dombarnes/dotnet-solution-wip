@@ -1,0 +1,7 @@
+/Users/domster83/workprojects/templates/dotnet-solution/dotnet-7-api-2/obj/Debug/net8.0/dotnet-7-api-2.csproj.AssemblyReference.cache
+/Users/domster83/workprojects/templates/dotnet-solution/dotnet-7-api-2/obj/Debug/net8.0/dotnet-7-api-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/domster83/workprojects/templates/dotnet-solution/dotnet-7-api-2/obj/Debug/net8.0/dotnet-7-api-2.AssemblyInfoInputs.cache
+/Users/domster83/workprojects/templates/dotnet-solution/dotnet-7-api-2/obj/Debug/net8.0/dotnet-7-api-2.AssemblyInfo.cs
+/Users/domster83/workprojects/templates/dotnet-solution/dotnet-7-api-2/obj/Debug/net8.0/dotnet-7-api-2.csproj.CoreCompileInputs.cache
+/Users/domster83/workprojects/templates/dotnet-solution/dotnet-7-api-2/obj/Debug/net8.0/dotnet-7-api-2.MvcApplicationPartsAssemblyInfo.cs
+/Users/domster83/workprojects/templates/dotnet-solution/dotnet-7-api-2/obj/Debug/net8.0/dotnet-7-api-2.MvcApplicationPartsAssemblyInfo.cache
